@@ -16,36 +16,9 @@
     font-family: ShopifySans, Helvetica;
 }
 
-.e {
-    position: relative;
-    display: inline-block;
-}
-
-.e input {
-    padding-right: 65px;
-    height: 30px;
-    width: 200px;
-}
-
-.e button {
-    position: absolute;
-    top: 0;
-    height: 34px;
-    right: 0;
-    border: none;
-    background-color: black;
-    color: white;
-    cursor: pointer;
-}
-.f {
-    color: white;
-    font-size: 15px;
-    font-family: ShopifySans, Helvetica;
-}
 .i {
     text-align: center;
-    width: 600px;
-    height: 500px;
+    width: 100%;
 }
 .j {
     background-color: white;
@@ -54,3 +27,39 @@
     height: 100%;
     left: 0;
 }
+
+.one {
+    color: white;
+    font-size: 30px;
+    font-family: ShopifySans, Helvetica;
+} 
+
+.two {
+    color: white;
+    font-size: 20px;
+    font-family: ShopifySans, Helvetica;
+} 
+
+.three {
+    color: white;
+    font-size: 30px;
+    font-family: ShopifySans, Helvetica;
+} 
+
+.four {
+    color: white;
+    font-size: 20px;
+    font-family: ShopifySans, Helvetica;
+} 
+
+.five {
+    color: white;
+    font-size: 30px;
+    font-family: ShopifySans, Helvetica;
+} 
+
+.six {
+    color: white;
+    font-size: 20px;
+    font-family: ShopifySans, Helvetica;
+} 
