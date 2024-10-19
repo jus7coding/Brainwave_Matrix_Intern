@@ -99,7 +99,23 @@ a {
     color: white;
 }
 
+.shopify-logo {
+    width: 50px;
+    height: 50px;
+}
+.theme-image {
+    width: 6vw;
+    height: auto;
+}
+.cart-image {
+    width: 6vw;
+    height: auto;
+}
+.seller-image {
+    width: 6vw;
+    height: auto;
+}
 .responsive {
-    width: auto;
+    width: 20%;
     height: auto;
 }
