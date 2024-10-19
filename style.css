@@ -3,8 +3,8 @@ body {
     background: linear-gradient(
         to bottom,
         #018060 0%,
-        #018060 30%,
-        white 30%,
+        #018060 15%,
+        white 15%,
         white 100%
     );
 }
@@ -18,12 +18,12 @@ body {
 }
 .b {
     color: white;
-    font-size: 50px;
+    font-size: 3.5vw;
     font-family: ShopifySans, Helvetica;
 }
 .c {
     color: white;
-    font-size: 25px;
+    font-size: 1.8vw;
     font-family: ShopifySans, Helvetica;
 }
 
@@ -41,36 +41,36 @@ body {
 
 .one {
     color black;
-    font-size: 30px;
+    font-size: 2vw;
     font-family: ShopifySans, Helvetica;
 } 
 
 .two {
     color black;
-    font-size: 20px;
+    font-size: 1.3vw;
     font-family: ShopifySans, Helvetica;
 } 
 
 .three {
     color black;
-    font-size: 30px;
+    font-size: 2vw;
     font-family: ShopifySans, Helvetica;
 } 
 
 .four {
     color black;
-    font-size: 20px;
+    font-size: 1.3vw;
     font-family: ShopifySans, Helvetica;
 } 
 
 .five {
     color black;
-    font-size: 30px;
+    font-size: 2vw;
     font-family: ShopifySans, Helvet black
 }
 .six {
     color: black;
-    font-size: 20px;
+    font-size: 1.3vw;
     font-family: ShopifySans, Helvetica;
 }
 
@@ -97,4 +97,9 @@ body {
 a {
     background-color: black;
     color: white;
+}
+
+.responsive {
+    width: auto;
+    height: auto;
 }
