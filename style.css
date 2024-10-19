@@ -13,7 +13,7 @@ body {
     color: white;
     font-size: 40px;
     font-style: italic;
-    font-family: ShopifySans, cursive;
+    font-family: ShopifySans, Helvetica, Arial, sans-serif cursive;
     vertical-align: bottom;
 }
 .b {
@@ -76,22 +76,22 @@ body {
 
 .seven {
     color: black;
-    font-size: 20px;
+    font-size: 1.3vw;
     font-family: ShopifySans, Helvetica;
 }
 .eight {
     color black;
-    font-size: 20px;
+    font-size: 1.3vw;
     font-family: ShopifySans, Helvetica, Arial, sans-serif;
 }
 
 .nine {
     background-color: black;
-    font-size: 20px;
+    font-size: 1.3vw;
     color: white;
     border-radius: 25px;
-    height: 50px;
-    width: 170px;
+    height: auto;
+    width: 10vw;
 }
 
 a {
