@@ -119,3 +119,9 @@ a {
     width: 20%;
     height: auto;
 }
+
+.ten {
+    background-color: white;
+    color: black;
+    text-align: center;
+}
